@@ -7,8 +7,6 @@ An IoT-based student tracking system designed to monitor student locations in re
 - **Full Report.pdf**: Detailed project report describing the system design, implementation, and findings.
 - **IDF262_s.docx**: Supporting document with additional information on the project.
 - **IoT-based Student Tracking System in alliance with.pdf**: Research paper or document outlining the alliance and objectives of the tracking system.
-- **KTR.jpg**: Image file, possibly a logo or related graphic for the project.
-- **README.md**: This README file.
 - **conference.pdf**: A conference paper or presentation associated with the tracking system.
 - **rfid_data.csv**: CSV file containing RFID data samples used in the tracking system.
 - **rfid_data.txt**: Text file with additional RFID data for testing or analysis.
